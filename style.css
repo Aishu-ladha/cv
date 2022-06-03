@@ -1,0 +1,30 @@
+body{
+    background-color: #EAF6F6;
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+h1{
+    color: #66BFBF;
+}
+h3{
+    color: #66BFBF;
+}
+nav li{
+display: inline-block;
+margin: 0px 19px;
+font-size: larger;
+background-color: #66BFBF;
+border-radius: 9px;
+padding: 3px 3px;
+}
+nav ul{
+    /* margin-left: 25%; */
+    color: white;
+    text-align: center;
+    
+}
